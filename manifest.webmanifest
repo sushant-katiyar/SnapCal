@@ -1,0 +1,10 @@
+{
+  "name": "SnapCal AI Nutrition Tracker",
+  "short_name": "SnapCal AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "description": "AI meal scanner, nutrition log, hydration and wellness quests."
+}
